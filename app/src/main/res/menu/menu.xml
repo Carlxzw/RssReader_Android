@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/homepage"
+        android:icon="@drawable/ic_fluent_home_16_filled"
+        app:exb_color="#FF8888" />
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/category"
+        android:icon="@drawable/ic_fluent_app_folder_20_filled"
+        app:exb_color="#FF8888" />
+
+    <item
+        android:id="@+id/bookmarks"
+        android:title="@string/mine"
+        android:icon="@drawable/ic_fluent_person_16_filled"
+        app:exb_color="#fa2" />
+</menu>

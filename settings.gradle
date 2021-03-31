@@ -1,1 +1,1 @@
-include ':app', ':coolmenu'
+include ':app'
